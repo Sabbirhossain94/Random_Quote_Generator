@@ -1,0 +1,23 @@
+*{
+    transition: 1s ease-out;
+}
+
+.card-body{
+    background:white;
+    padding: 20px;
+}
+.card-title{
+    text-align: center;
+    background:royalblue;
+    padding: 10px;
+}
+#tweet-quote{
+  float: right;
+  width: 7%;
+  padding: 5px;
+}
+#tumblr{
+  float: right;
+  width: 6%;
+  padding: 5px;
+}
